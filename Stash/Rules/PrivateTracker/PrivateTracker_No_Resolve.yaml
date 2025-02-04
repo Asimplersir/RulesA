@@ -1,5 +1,5 @@
 # 规则名称: PrivateTracker_No_Resolve
-# 规则统计: 261
+# 规则统计: 257
 
 payload:
   - DOMAIN,0123456789nonexistent.com
@@ -19,6 +19,7 @@ payload:
   - DOMAIN,concen.org
   - DOMAIN,d40969.acod.regrucolo.ru
   - DOMAIN,discord.heihachi.pw
+  - DOMAIN,ec2-18-191-163-220.us-east-2.compute.amazonaws.com
   - DOMAIN,evan.im
   - DOMAIN,exodus.desync.com
   - DOMAIN,explodie.org
@@ -28,9 +29,9 @@ payload:
   - DOMAIN,home.yxgz.club
   - DOMAIN,ipv4.rer.lol
   - DOMAIN,ipv4announce.sktorrent.eu
+  - DOMAIN,ipv6.rer.lol
   - DOMAIN,isk.richardsw.club
   - DOMAIN,ismaarino.com
-  - DOMAIN,leet-tracker.moe
   - DOMAIN,martin-gebhardt.eu
   - DOMAIN,new-line.net
   - DOMAIN,ns-1.x-fins.com
@@ -60,7 +61,6 @@ payload:
   - DOMAIN,taciturn-shadow.spb.ru
   - DOMAIN,tk.greedland.net
   - DOMAIN,torrentsmd.com
-  - DOMAIN,tr.abir.ga
   - DOMAIN,tr.burnabyhighstar.com
   - DOMAIN,tr.nyacat.pw
   - DOMAIN,tr.zukizuki.org
@@ -70,12 +70,12 @@ payload:
   - DOMAIN,tracker.0x7c0.com
   - DOMAIN,tracker.aburaya.live
   - DOMAIN,tracker.beeimg.com
+  - DOMAIN,tracker.birkenwald.de
   - DOMAIN,tracker.bittor.pw
   - DOMAIN,tracker.bjut.jp
   - DOMAIN,tracker.bt-hash.com
   - DOMAIN,tracker.bt4g.com
   - DOMAIN,tracker.bz
-  - DOMAIN,tracker.cloudit.top
   - DOMAIN,tracker.corpscorp.online
   - DOMAIN,tracker.cyberia.is
   - DOMAIN,tracker.darkness.services
@@ -118,14 +118,13 @@ payload:
   - DOMAIN,tracker.yemekyedim.com
   - DOMAIN,tracker.yume-hatsuyuki.moe
   - DOMAIN,tracker1.520.jp
+  - DOMAIN,tracker1.myporn.club
   - DOMAIN,tracker2.dler.org
-  - DOMAIN,tracker2.itzmx.com
-  - DOMAIN,tracker3.itzmx.com
-  - DOMAIN,tracker4.itzmx.com
   - DOMAIN,tracker810.xyz
   - DOMAIN,ttk2.nbaonlineservice.com
   - DOMAIN,u4.trakx.crim.ist
   - DOMAIN,u6.trakx.crim.ist
+  - DOMAIN,udp.tracker.projectk.org
   - DOMAIN,wepzone.net
   - DOMAIN,www.all4nothin.net
   - DOMAIN,www.genesis-sp.org
@@ -259,6 +258,3 @@ payload:
   - DOMAIN-KEYWORD,chdbits
   - DOMAIN-KEYWORD,m-team
   - DOMAIN-KEYWORD,torrent
-  - IP-CIDR,207.241.226.111/32,no-resolve
-  - IP-CIDR,207.241.231.226/32,no-resolve
-  - IP-CIDR,52.58.128.163/32,no-resolve

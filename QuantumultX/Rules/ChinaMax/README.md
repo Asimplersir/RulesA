@@ -21,7 +21,7 @@
 
 ## 规则统计
 
-最后更新时间：2025-02-04 02:14:08
+最后更新时间：2025-02-05 02:13:57
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
@@ -32,9 +32,9 @@
 | HOST-WILDCARD | 1  | 
 | IP-ASN | 1  | 
 | IP-CIDR | 8312  | 
-| IP6-CIDR | 12139  | 
+| IP6-CIDR | 12140  | 
 | USER-AGENT(QuantumultX支持) | 65  | 
-| TOTAL(仅供参考) | 117691  | 
+| TOTAL(仅供参考) | 117692  | 
 
 
 ## QuantumultX 
@@ -427,9 +427,6 @@ https://raw.githubusercontent.com/Auniquesir/Tool/X/QuantumultX/Rules/ChinaMax/C
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/BesTV.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/CETV.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/SMG.list
-- https://ruleset.isagood.day/alibaba.conf
-- https://ruleset.isagood.day/alibaba_domain.conf
-- https://ruleset.isagood.day/bilibili.conf
 - https://raw.githubusercontent.com/missuo/ASN-China/main/IP.China.list
 
 
