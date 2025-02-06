@@ -1,5 +1,5 @@
 # 规则名称: Advertising_Domain_For_Clash
-# 规则统计: 157306
+# 规则统计: 157345
 
 03.lzzncm.com
 04.lzzncm.com
@@ -621,7 +621,6 @@ api.mobileanjian.com
 api.mobitech-content.xyz
 api.mobojoy.baidu.com
 api.monedata.io
-api.myadsget.com
 api.myendpoint.io
 api.nextgen.guardianapps.co.uk
 api.ning.com
@@ -651,7 +650,6 @@ api.videometrics.ted.com
 api.vigo.ru
 api.wootric.com.herokudns.com
 api.yidaomobi.com
-api.youngle.tech
 api.youzu.com
 api0.dating.com
 api1.888zy.cn
@@ -18093,6 +18091,7 @@ play.kakao.com
 +.48304789.xyz
 +.485728.xyz
 +.485f197673.com
++.487ed86ea3.com
 +.4885e2e6f7.com
 +.48a16802.site
 +.48c5d27faef8b635e99e00ef9b5fd0cd.com
@@ -19382,6 +19381,7 @@ play.kakao.com
 +.999xx333kk.com
 +.999xx999kk.com
 +.999zz333zz.com
++.99ads.net
 +.99bithcoins.com
 +.99counters.com
 +.99fe352223.com
@@ -19543,6 +19543,7 @@ play.kakao.com
 +.a.bxwblog.cn
 +.a.cemir.site
 +.a.cntv.cn
++.a.cylek.site
 +.a.ddli.jp
 +.a.debub.site
 +.a.denik.cz
@@ -23657,6 +23658,8 @@ play.kakao.com
 +.adx-exchange.toast.com
 +.adx-in.ads.heytapmobile.com
 +.adx-open-service.youku.com
++.adx-os.bridgeoos.com
++.adx-sg-req.bridgeoos.com
 +.adx.36kr.com
 +.adx.baolongan.vn
 +.adx.chinmedia.vn
@@ -26089,6 +26092,7 @@ play.kakao.com
 +.api.bitp.it
 +.api.boclinkads.com
 +.api.botad.kr
++.api.bridgeoos.com
 +.api.brs.intl.miui.com
 +.api.bytebrew.io
 +.api.country.is
@@ -26104,6 +26108,7 @@ play.kakao.com
 +.api.iterative.ly
 +.api.itpub.cloud
 +.api.karpishe.com
++.api.kickoffo.site
 +.api.limbik.com
 +.api.linkgist.com
 +.api.linkmine.co.kr
@@ -26112,6 +26117,7 @@ play.kakao.com
 +.api.miui.security.xiaomi.com
 +.api.moneyoyo.org
 +.api.mumuglobal.com
++.api.myadsget.com
 +.api.nas.nct.vn
 +.api.newsfeed.intl.miui.com
 +.api.pubfinity.com
@@ -26123,6 +26129,7 @@ play.kakao.com
 +.api.sprig.com
 +.api.statsig.com
 +.api.subiz.com.vn
++.api.sve.cc
 +.api.taggrs.io
 +.api.telemetry.watchabc.go.com
 +.api.tomi.ai
@@ -26132,6 +26139,7 @@ play.kakao.com
 +.api.unthem.com
 +.api.valista.io
 +.api.widget.zalo.me
++.api.youngle.tech
 +.api168168.com
 +.api2.boclinkads.com
 +.api64.com
@@ -26840,6 +26848,7 @@ play.kakao.com
 +.aseegrib.com
 +.asemblee-nationale.fr
 +.asemskull.com
++.asensoithecb.com
 +.asentia.fr
 +.asermtawlfs.xyz
 +.aserv.motorsgate.com
@@ -28120,6 +28129,7 @@ play.kakao.com
 +.b.povarenok.ru
 +.b.ranking.apis.sankei-digital.co.jp
 +.b.recwwcc5.info
++.b.trueanthem.com
 +.b.w3techs.com
 +.b.we-are-anon.com
 +.b.xlineker.com
@@ -29668,6 +29678,7 @@ play.kakao.com
 +.benignitydesirespring.com
 +.benignityprophet.com
 +.benignitywoofovercoat.com
++.beniluuxen.com
 +.benimreklam.com
 +.benn8bord.com
 +.bennelput.com
@@ -30610,6 +30621,7 @@ play.kakao.com
 +.bjxfnn.xyz
 +.bjxiangcao.com
 +.bjycsb.com
++.bk-xctgdnf.life
 +.bk.goodline.info
 +.bk8vietnam.com
 +.bkae.top
@@ -36113,6 +36125,7 @@ play.kakao.com
 +.code.createjs.com
 +.code.r5hsid.ru
 +.code.usergram.info
++.code.wenbanzhu.com
 +.code.ws
 +.codeadnetwork.com
 +.codebiogblog.com
@@ -56208,6 +56221,7 @@ play.kakao.com
 +.hvpard.xyz
 +.hvuqkb.cn
 +.hvvafunojvdlv.xyz
++.hvwqgedwpckc.com
 +.hvxrvef.xyz
 +.hvzrrvj.cn
 +.hw-ot-ad.a.yximgs.com
@@ -57572,6 +57586,7 @@ play.kakao.com
 +.inconsistencygasdifficult.com
 +.inconveniencemimic.com
 +.inconveniencepretendboost.com
++.incorddrag.com
 +.incorphishor.com
 +.increaseplanneddoubtful.com
 +.increaseprincipal.com
@@ -58685,6 +58700,7 @@ play.kakao.com
 +.irgxwk.xyz
 +.irhpzbrnoyf.com
 +.iridiumsergeiprogenitor.info
++.iringtgandmotiv.com
 +.irisaffectioneducate.com
 +.irishormone.com
 +.irishorridamount.com
@@ -58765,6 +58781,8 @@ play.kakao.com
 +.iryazan.ru
 +.irygym.xyz
 +.is-tracking-pixel-api-prod.appspot.com
++.is02041qqp.xyz
++.is02050qqp.xyz
 +.is686.com
 +.isabellagodpointy.com
 +.isabellahopepancake.com
@@ -60773,6 +60791,7 @@ play.kakao.com
 +.jxlpafdxbnhak.com
 +.jxlxeeo.com
 +.jxmiyrh.icu
++.jxmtttqb.com
 +.jxncs1.com
 +.jxpjlb.xyz
 +.jxpqjztcprvvb.com
@@ -61168,6 +61187,7 @@ play.kakao.com
 +.kdmjvnk.com
 +.kdmkauchahynhrs.ru
 +.kdmmm.cn
++.kdmyatytentionia.com
 +.kdokgcf.com
 +.kdomsid.top
 +.kdopag.xyz
@@ -65641,6 +65661,7 @@ play.kakao.com
 +.lukeexposure.com
 +.lukomol.com
 +.lukpush.com
++.lukyday.xyz
 +.lulavsepoxy.guru
 +.lulgef.icu
 +.lulgpmdmbtedzl.com
@@ -74135,6 +74156,7 @@ play.kakao.com
 +.omkxes.xyz
 +.omlube.com
 +.ommatearittock.digital
++.ommatht.com
 +.ommjkomvweg.com
 +.omnatuor.com
 +.omni-ad-blocket.herokuapp.com
@@ -74422,6 +74444,7 @@ play.kakao.com
 +.ontj.com
 +.ontodirection.com
 +.ontosocietyweary.com
++.ontrklnk.com
 +.onugostlyhe.info
 +.onverforrinho.com
 +.onvertise.com
@@ -75374,6 +75397,7 @@ play.kakao.com
 +.outwitridiculousresume.com
 +.outwoodeuropa.com
 +.outyanmegaom.com
++.ouveedaiz.net
 +.ouveelsa.xyz
 +.ouvertrenewed.com
 +.ouvrefth.shop
@@ -79810,6 +79834,7 @@ play.kakao.com
 +.projectpoi.com
 +.projectscupcakeinternational.com
 +.projectsunblock.com
++.projekt678.de
 +.projetmildful.com
 +.prokyrn.icu
 +.prolapseman.com
@@ -81430,6 +81455,7 @@ play.kakao.com
 +.qguwoq.cn
 +.qgwjydxo.com
 +.qgxbluhsgad.com
++.qhaccid.com
 +.qhapoq.xyz
 +.qhatarsl.com
 +.qhbhlii.xyz
@@ -82291,6 +82317,7 @@ play.kakao.com
 +.r.aachener-zeitung.de
 +.r.dimkriju.bget.ru
 +.r.existenz.se
++.r.marketing.dubaisothebys.com
 +.r.miamano.com
 +.r.partner.badoo.ru
 +.r.qip.ru
@@ -85279,6 +85306,7 @@ play.kakao.com
 +.rrobbybvvwmzk.top
 +.rrolqae.com
 +.rronsep.com
++.rrptnkao.icu
 +.rrqpajlyvtpqst.com
 +.rrss.abc.es
 +.rrtwda9.com
@@ -87540,6 +87568,7 @@ play.kakao.com
 +.serpentreplica.com
 +.serpentshampoo.com
 +.sersh.com
++.sertingglucid.com
 +.serumalkillow.com
 +.serumlisp.com
 +.serv-ac.com
@@ -90253,6 +90282,7 @@ play.kakao.com
 +.soffersk.com
 +.soffitsfermal.guru
 +.sofinpushpile.com
++.sofire.1024tera.com
 +.soflopxl.com
 +.sofq.site
 +.sofseo.cn
@@ -91006,6 +91036,7 @@ play.kakao.com
 +.spoor-api.ft.com
 +.sporedfryhum.com
 +.sporedshock.com
++.sporranawaked.shop
 +.sport205.club
 +.sportapp.co.il
 +.sportbets.su
@@ -96346,6 +96377,7 @@ play.kakao.com
 +.tnkexchange.com
 +.tnkfactory.com
 +.tnlby.com
++.tnlixn.icu
 +.tnmmfgilvrjivxk.xyz
 +.tnmpd.xyz
 +.tnpads.xyz
@@ -99214,6 +99246,7 @@ play.kakao.com
 +.u6u.icu
 +.u78s.top
 +.u7kgr54jr7.ru
++.u7y.pw
 +.u7z5fgj3k9c0vkah2v8zj1zj7v6gkm2f8zjc9j2vk6o9p2zks3a6sjc2mj6h.me
 +.u8.hujiang.com
 +.u833ij.com
@@ -103739,6 +103772,7 @@ play.kakao.com
 +.vvlian.com
 +.vvmblock.ru
 +.vvobtrjtinsd.com
++.vvojuhtktpmwg.com
 +.vvpojbsibm.xyz
 +.vvprcztaw.com
 +.vvrbjtjxmlgcd.xyz
@@ -105559,6 +105593,7 @@ play.kakao.com
 +.wintricksbanner.googlepages.com
 +.winvideo.org
 +.winzefarrel.com
++.winzessolicit.com
 +.winzid.icu
 +.wioabfwyigasfbksl.org
 +.wioboy.xyz
@@ -106472,6 +106507,7 @@ play.kakao.com
 +.wvyqks.xyz
 +.wvzhj.com
 +.ww.hoes.tube
++.ww.sphinxtube.com
 +.ww1.flashx.net
 +.ww2.imgadult.com
 +.ww2.imgtaxi.com
@@ -108899,6 +108935,7 @@ play.kakao.com
 +.yohavemix.live
 +.yohioo.com
 +.yohnoirs.com
++.yohtads.com
 +.yoibbka.com
 +.yoickscaper.shop
 +.yojanaarabic.life
@@ -109484,8 +109521,10 @@ play.kakao.com
 +.zalo-ads-480.zadn.vn
 +.zalo-ads-td.zadn.vn
 +.zalo-ads.zadn.vn
++.zalo-web.me
 +.zaloads-480.zdn.vn
 +.zalorashop.com
++.zaloweb.pro
 +.zaltaumi.net
 +.zamansolpuga.com
 +.zambianmarlena.com
