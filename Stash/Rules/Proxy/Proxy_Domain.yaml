@@ -1,5 +1,5 @@
 # 规则名称: Proxy_Domain
-# 规则统计: 6058
+# 规则统计: 6063
 
 payload:
   - 'api.waqi.info'
@@ -830,6 +830,7 @@ payload:
   - '+.cccat.co'
   - '+.cccat.io'
   - '+.ccdtr.org'
+  - '+.ccfd.org.tw'
   - '+.cchere.com'
   - '+.ccim.org'
   - '+.cclife.ca'
@@ -2132,6 +2133,7 @@ payload:
   - '+.graphis.ne.jp'
   - '+.graphql.org'
   - '+.gravatar.com'
+  - '+.greasyfork.org'
   - '+.great-firewall.com'
   - '+.great-roc.org'
   - '+.greatfire.org'
@@ -2608,6 +2610,7 @@ payload:
   - '+.ip.sb'
   - '+.ipaddress.com'
   - '+.ipalter.com'
+  - '+.ipdefenseforum.com'
   - '+.ipfire.org'
   - '+.ipfs.io'
   - '+.iphone4hongkong.com'
@@ -3591,6 +3594,7 @@ payload:
   - '+.nobel.se'
   - '+.nobelprize.org'
   - '+.nobodycanstop.us'
+  - '+.nodeseek.com'
   - '+.nodesnoop.com'
   - '+.nofile.io'
   - '+.nokogiri.org'
@@ -3812,6 +3816,7 @@ payload:
   - '+.pachosting.com'
   - '+.pacificpoker.com'
   - '+.packetix.net'
+  - '+.pacom.mil'
   - '+.pacopacomama.com'
   - '+.paddle.com'
   - '+.paddleapi.com'

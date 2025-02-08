@@ -1,5 +1,5 @@
 # 规则名称: Global_Domain
-# 规则统计: 30966
+# 规则统计: 30971
 
 adobeereg.com
 angle.com.tw
@@ -25749,6 +25749,7 @@ self.events.data.microsoft.com
 .cccat.co
 .cccat.io
 .ccdtr.org
+.ccfd.org.tw
 .cchere.com
 .ccim.org
 .cclife.ca
@@ -27046,6 +27047,7 @@ self.events.data.microsoft.com
 .graphis.ne.jp
 .graphql.org
 .gravatar.com
+.greasyfork.org
 .great-firewall.com
 .great-roc.org
 .greatfire.org
@@ -27521,6 +27523,7 @@ self.events.data.microsoft.com
 .ip.sb
 .ipaddress.com
 .ipalter.com
+.ipdefenseforum.com
 .ipfire.org
 .ipfs.io
 .iphone4hongkong.com
@@ -28503,6 +28506,7 @@ self.events.data.microsoft.com
 .nobel.se
 .nobelprize.org
 .nobodycanstop.us
+.nodeseek.com
 .nodesnoop.com
 .nofile.io
 .nokogiri.org
@@ -28724,6 +28728,7 @@ self.events.data.microsoft.com
 .pachosting.com
 .pacificpoker.com
 .packetix.net
+.pacom.mil
 .pacopacomama.com
 .paddle.com
 .paddleapi.com
