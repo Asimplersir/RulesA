@@ -1,5 +1,5 @@
 # 规则名称: Global_Classical_No_Resolve
-# 规则统计: 31125
+# 规则统计: 31124
 
 payload:
   - DOMAIN,adobeereg.com
@@ -1000,7 +1000,6 @@ payload:
   - DOMAIN-SUFFIX,ahua.ac.uk
   - DOMAIN-SUFFIX,ahvideosexe.com
   - DOMAIN-SUFFIX,ahxxx.club
-  - DOMAIN-SUFFIX,ai.com
   - DOMAIN-SUFFIX,ai3sd.ac.uk
   - DOMAIN-SUFFIX,ai7995.site
   - DOMAIN-SUFFIX,ai91porn.cc

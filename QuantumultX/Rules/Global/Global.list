@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 31652
+# 规则统计: 31651
 
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
@@ -1445,7 +1445,6 @@ HOST-SUFFIX,ahtranny.com,Global
 HOST-SUFFIX,ahua.ac.uk,Global
 HOST-SUFFIX,ahvideosexe.com,Global
 HOST-SUFFIX,ahxxx.club,Global
-HOST-SUFFIX,ai.com,Global
 HOST-SUFFIX,ai3sd.ac.uk,Global
 HOST-SUFFIX,ai7995.site,Global
 HOST-SUFFIX,ai91porn.cc,Global

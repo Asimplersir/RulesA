@@ -1,5 +1,5 @@
 # 规则名称: Global_Domain
-# 规则统计: 30972
+# 规则统计: 30971
 
 payload:
   - 'adobeereg.com'
@@ -1000,7 +1000,6 @@ payload:
   - '+.ahua.ac.uk'
   - '+.ahvideosexe.com'
   - '+.ahxxx.club'
-  - '+.ai.com'
   - '+.ai3sd.ac.uk'
   - '+.ai7995.site'
   - '+.ai91porn.cc'
