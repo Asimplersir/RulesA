@@ -21,7 +21,7 @@
 
 ## 规则统计
 
-最后更新时间：2025-02-13 02:14:15
+最后更新时间：2025-02-14 02:14:29
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
@@ -30,11 +30,11 @@
 | DOMAIN-KEYWORD | 13  | 
 | DOMAIN-SUFFIX | 96677  | 
 | IP-ASN | 1  | 
-| IP-CIDR | 8288  | 
-| IP-CIDR6 | 12158  | 
+| IP-CIDR | 8272  | 
+| IP-CIDR6 | 12161  | 
 | PROCESS-NAME | 12  | 
 | USER-AGENT(Egern支持) | 65  | 
-| TOTAL(仅供参考) | 117631  | 
+| TOTAL(仅供参考) | 117618  | 
 
 
 ## Egern 

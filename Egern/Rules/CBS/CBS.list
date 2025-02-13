@@ -1,8 +1,7 @@
 # 规则名称: CBS
-# 规则统计: 38
+# 规则统计: 37
 
 DOMAIN-SUFFIX,amlg.io
-DOMAIN-SUFFIX,cbs
 DOMAIN-SUFFIX,cbs.com
 DOMAIN-SUFFIX,cbsaavideo.com
 DOMAIN-SUFFIX,cbscorporation.com

@@ -1,8 +1,7 @@
 # 规则名称: CBS
-# 规则统计: 36
+# 规则统计: 35
 
 HOST-SUFFIX,amlg.io,CBS
-HOST-SUFFIX,cbs,CBS
 HOST-SUFFIX,cbs.com,CBS
 HOST-SUFFIX,cbsaavideo.com,CBS
 HOST-SUFFIX,cbscorporation.com,CBS
