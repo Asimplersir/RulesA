@@ -1,11 +1,12 @@
 # 规则名称: JiGuangTuiSong_No_Resolve
-# 规则统计: 18
+# 规则统计: 19
 
 payload:
   - DOMAIN-SUFFIX,42r.cn
   - DOMAIN-SUFFIX,5566ua.com
   - DOMAIN-SUFFIX,aurorapush.cn
   - DOMAIN-SUFFIX,e0n.cn
+  - DOMAIN-SUFFIX,easytomessage.com
   - DOMAIN-SUFFIX,japps.cn
   - DOMAIN-SUFFIX,jchat.io
   - DOMAIN-SUFFIX,jiguang.cn
