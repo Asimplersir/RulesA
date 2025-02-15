@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 31651
+# 规则统计: 31655
 
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
@@ -13083,6 +13083,7 @@ HOST-SUFFIX,kphimsex.net,Global
 HOST-SUFFIX,kpht85.com,Global
 HOST-SUFFIX,kpinsurances.com,Global
 HOST-SUFFIX,kpptoto.info,Global
+HOST-SUFFIX,kraken.onl,Global
 HOST-SUFFIX,krakenjs.com,Global
 HOST-SUFFIX,krhentai.com,Global
 HOST-SUFFIX,kristenbjorn.com,Global
@@ -21475,6 +21476,7 @@ HOST-SUFFIX,theteenhome.com,Global
 HOST-SUFFIX,thethothub.com,Global
 HOST-SUFFIX,thetimes.co.uk,Global
 HOST-SUFFIX,thetimes.ie,Global
+HOST-SUFFIX,thetrackernetwork.com,Global
 HOST-SUFFIX,thetranny.com,Global
 HOST-SUFFIX,thetread.com,Global
 HOST-SUFFIX,thetype.com,Global
@@ -21715,6 +21717,8 @@ HOST-SUFFIX,tr-west-1.myhuaweicloud.com,Global
 HOST-SUFFIX,tr.com,Global
 HOST-SUFFIX,trac.ac.uk,Global
 HOST-SUFFIX,tracingnetworks.ac.uk,Global
+HOST-SUFFIX,tracker.gg,Global
+HOST-SUFFIX,tracker.network,Global
 HOST-SUFFIX,tracking-location.com,Global
 HOST-SUFFIX,tradevip1.com,Global
 HOST-SUFFIX,traffcoll.ac.uk,Global

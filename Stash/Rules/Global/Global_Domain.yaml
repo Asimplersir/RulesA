@@ -1,5 +1,5 @@
 # 规则名称: Global_Domain
-# 规则统计: 30971
+# 规则统计: 30975
 
 payload:
   - 'adobeereg.com'
@@ -12972,6 +12972,7 @@ payload:
   - '+.kpht85.com'
   - '+.kpinsurances.com'
   - '+.kpptoto.info'
+  - '+.kraken.onl'
   - '+.krakenjs.com'
   - '+.krhentai.com'
   - '+.kristenbjorn.com'
@@ -21403,6 +21404,7 @@ payload:
   - '+.thethothub.com'
   - '+.thetimes.co.uk'
   - '+.thetimes.ie'
+  - '+.thetrackernetwork.com'
   - '+.thetranny.com'
   - '+.thetread.com'
   - '+.thetype.com'
@@ -21647,6 +21649,8 @@ payload:
   - '+.tr.com'
   - '+.trac.ac.uk'
   - '+.tracingnetworks.ac.uk'
+  - '+.tracker.gg'
+  - '+.tracker.network'
   - '+.tracking-location.com'
   - '+.tradevip1.com'
   - '+.traffcoll.ac.uk'

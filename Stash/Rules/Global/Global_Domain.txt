@@ -1,5 +1,5 @@
 # 规则名称: Global_Domain
-# 规则统计: 30970
+# 规则统计: 30974
 
 adobeereg.com
 angle.com.tw
@@ -12971,6 +12971,7 @@ self.events.data.microsoft.com
 .kpht85.com
 .kpinsurances.com
 .kpptoto.info
+.kraken.onl
 .krakenjs.com
 .krhentai.com
 .kristenbjorn.com
@@ -21402,6 +21403,7 @@ self.events.data.microsoft.com
 .thethothub.com
 .thetimes.co.uk
 .thetimes.ie
+.thetrackernetwork.com
 .thetranny.com
 .thetread.com
 .thetype.com
@@ -21646,6 +21648,8 @@ self.events.data.microsoft.com
 .tr.com
 .trac.ac.uk
 .tracingnetworks.ac.uk
+.tracker.gg
+.tracker.network
 .tracking-location.com
 .tradevip1.com
 .traffcoll.ac.uk
