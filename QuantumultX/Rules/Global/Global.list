@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 31655
+# 规则统计: 31658
 
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
@@ -1196,6 +1196,7 @@ HOST-SUFFIX,adaptivecards.io,Global
 HOST-SUFFIX,adas.ac.uk,Global
 HOST-SUFFIX,adbecrsl.com,Global
 HOST-SUFFIX,adbkm.com,Global
+HOST-SUFFIX,adblockcdn.com,Global
 HOST-SUFFIX,adcommerce.tv,Global
 HOST-SUFFIX,addison-wesley.ch,Global
 HOST-SUFFIX,addison.ac.uk,Global
@@ -24572,6 +24573,8 @@ HOST-SUFFIX,youpornru.com,Global
 HOST-SUFFIX,youpornxvideos.net,Global
 HOST-SUFFIX,your-objectstorage.com,Global
 HOST-SUFFIX,your-server.de,Global
+HOST-SUFFIX,your-storagebox.de,Global
+HOST-SUFFIX,your-storageshare.de,Global
 HOST-SUFFIX,youramateurporn.com,Global
 HOST-SUFFIX,yourassbig.com,Global
 HOST-SUFFIX,yourbrain.com,Global
