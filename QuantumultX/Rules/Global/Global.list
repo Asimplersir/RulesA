@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 31658
+# 规则统计: 31663
 
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
@@ -15346,7 +15346,12 @@ HOST-SUFFIX,mwdbank.com,Global
 HOST-SUFFIX,mwell.ac.uk,Global
 HOST-SUFFIX,mwhentai.net,Global
 HOST-SUFFIX,mwrc.ac.uk,Global
+HOST-SUFFIX,mxlogin.com,Global
 HOST-SUFFIX,mxmcdn.net,Global
+HOST-SUFFIX,mxroute.com,Global
+HOST-SUFFIX,mxroutedocs.com,Global
+HOST-SUFFIX,mxroutehelp.com,Global
+HOST-SUFFIX,mxrouting.net,Global
 HOST-SUFFIX,mxshm.site,Global
 HOST-SUFFIX,my-enema.com,Global
 HOST-SUFFIX,my-kualalumpur-1.myhuaweicloud.com,Global

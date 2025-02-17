@@ -1,5 +1,5 @@
 # 规则名称: Global_Domain
-# 规则统计: 30978
+# 规则统计: 30983
 
 payload:
   - 'adobeereg.com'
@@ -15237,7 +15237,12 @@ payload:
   - '+.mwell.ac.uk'
   - '+.mwhentai.net'
   - '+.mwrc.ac.uk'
+  - '+.mxlogin.com'
   - '+.mxmcdn.net'
+  - '+.mxroute.com'
+  - '+.mxroutedocs.com'
+  - '+.mxroutehelp.com'
+  - '+.mxrouting.net'
   - '+.mxshm.site'
   - '+.my-enema.com'
   - '+.my-kualalumpur-1.myhuaweicloud.com'

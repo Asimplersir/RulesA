@@ -1,5 +1,5 @@
 # 规则名称: Global_Domain
-# 规则统计: 30977
+# 规则统计: 30982
 
 adobeereg.com
 angle.com.tw
@@ -15236,7 +15236,12 @@ self.events.data.microsoft.com
 .mwell.ac.uk
 .mwhentai.net
 .mwrc.ac.uk
+.mxlogin.com
 .mxmcdn.net
+.mxroute.com
+.mxroutedocs.com
+.mxroutehelp.com
+.mxrouting.net
 .mxshm.site
 .my-enema.com
 .my-kualalumpur-1.myhuaweicloud.com
