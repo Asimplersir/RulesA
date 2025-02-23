@@ -1,5 +1,5 @@
 # 规则名称: Proxy_Classical_No_Resolve
-# 规则统计: 6189
+# 规则统计: 6191
 
 payload:
   - DOMAIN,api.waqi.info
@@ -1078,6 +1078,7 @@ payload:
   - DOMAIN-SUFFIX,codeplex.com
   - DOMAIN-SUFFIX,codeshare.io
   - DOMAIN-SUFFIX,codeskulptor.org
+  - DOMAIN-SUFFIX,cofacts.tw
   - DOMAIN-SUFFIX,coin2co.in
   - DOMAIN-SUFFIX,coinbase.com
   - DOMAIN-SUFFIX,coinbene.com
@@ -2152,6 +2153,7 @@ payload:
   - DOMAIN-SUFFIX,greenvpn.net
   - DOMAIN-SUFFIX,greenvpn.org
   - DOMAIN-SUFFIX,grindr.com
+  - DOMAIN-SUFFIX,grok.com
   - DOMAIN-SUFFIX,grotty-monday.com
   - DOMAIN-SUFFIX,ground.news
   - DOMAIN-SUFFIX,gs-discuss.com

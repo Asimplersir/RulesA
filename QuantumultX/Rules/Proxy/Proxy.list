@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 6654
+# 规则统计: 6656
 
 HOST,api.msn.com,Proxy
 HOST,api.waqi.info,Proxy
@@ -1167,6 +1167,7 @@ HOST-SUFFIX,code1984.com,Proxy
 HOST-SUFFIX,codeplex.com,Proxy
 HOST-SUFFIX,codeshare.io,Proxy
 HOST-SUFFIX,codeskulptor.org,Proxy
+HOST-SUFFIX,cofacts.tw,Proxy
 HOST-SUFFIX,coin2co.in,Proxy
 HOST-SUFFIX,coinbase.com,Proxy
 HOST-SUFFIX,coinbene.com,Proxy
@@ -2514,6 +2515,7 @@ HOST-SUFFIX,greenreadings.com,Proxy
 HOST-SUFFIX,greenvpn.net,Proxy
 HOST-SUFFIX,greenvpn.org,Proxy
 HOST-SUFFIX,grindr.com,Proxy
+HOST-SUFFIX,grok.com,Proxy
 HOST-SUFFIX,grotty-monday.com,Proxy
 HOST-SUFFIX,ground.news,Proxy
 HOST-SUFFIX,grow.google,Proxy

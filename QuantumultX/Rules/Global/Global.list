@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 31675
+# 规则统计: 31676
 
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
@@ -10181,7 +10181,6 @@ HOST-SUFFIX,gridpp.ac.uk,Global
 HOST-SUFFIX,grids.ac.uk,Global
 HOST-SUFFIX,grimsby.ac.uk,Global
 HOST-SUFFIX,grimsbytec.ac.uk,Global
-HOST-SUFFIX,grok.com,Global
 HOST-SUFFIX,grooby.com,Global
 HOST-SUFFIX,groq.com,Global
 HOST-SUFFIX,groupfun.com,Global
@@ -26130,6 +26129,7 @@ HOST-SUFFIX,code1984.com,Global
 HOST-SUFFIX,codeplex.com,Global
 HOST-SUFFIX,codeshare.io,Global
 HOST-SUFFIX,codeskulptor.org,Global
+HOST-SUFFIX,cofacts.tw,Global
 HOST-SUFFIX,coin2co.in,Global
 HOST-SUFFIX,coinbase.com,Global
 HOST-SUFFIX,coinbene.com,Global
@@ -27476,6 +27476,7 @@ HOST-SUFFIX,greenreadings.com,Global
 HOST-SUFFIX,greenvpn.net,Global
 HOST-SUFFIX,greenvpn.org,Global
 HOST-SUFFIX,grindr.com,Global
+HOST-SUFFIX,grok.com,Global
 HOST-SUFFIX,grotty-monday.com,Global
 HOST-SUFFIX,ground.news,Global
 HOST-SUFFIX,grow.google,Global

@@ -1,5 +1,5 @@
 # 规则名称: Proxy_Domain_For_Clash
-# 规则统计: 6065
+# 规则统计: 6067
 
 api.waqi.info
 aqi.aqicn.org
@@ -1077,6 +1077,7 @@ voice.telephony.goog
 +.codeplex.com
 +.codeshare.io
 +.codeskulptor.org
++.cofacts.tw
 +.coin2co.in
 +.coinbase.com
 +.coinbene.com
@@ -2151,6 +2152,7 @@ voice.telephony.goog
 +.greenvpn.net
 +.greenvpn.org
 +.grindr.com
++.grok.com
 +.grotty-monday.com
 +.ground.news
 +.gs-discuss.com
