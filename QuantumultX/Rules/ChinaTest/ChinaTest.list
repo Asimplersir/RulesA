@@ -1,5 +1,5 @@
 # 规则名称: ChinaTest
-# 规则统计: 94485
+# 规则统计: 94501
 
 HOST,analytics.strava.com,ChinaTest
 HOST,blzddist1-a.akamaihd.net,ChinaTest
@@ -16478,6 +16478,8 @@ HOST-SUFFIX,besttrav.com,ChinaTest
 HOST-SUFFIX,bestugali.com,ChinaTest
 HOST-SUFFIX,bestv6.com,ChinaTest
 HOST-SUFFIX,bestvapp.com,ChinaTest
+HOST-SUFFIX,bestvcdn.com,ChinaTest
+HOST-SUFFIX,bestvcdn.net,ChinaTest
 HOST-SUFFIX,bestvideocloud.com,ChinaTest
 HOST-SUFFIX,bestviewstock.com,ChinaTest
 HOST-SUFFIX,bestvist.com,ChinaTest
@@ -43442,6 +43444,7 @@ HOST-SUFFIX,hzdjy.com,ChinaTest
 HOST-SUFFIX,hzdledu.com,ChinaTest
 HOST-SUFFIX,hzdlrj.com,ChinaTest
 HOST-SUFFIX,hzdq.com,ChinaTest
+HOST-SUFFIX,hzdtv.tv,ChinaTest
 HOST-SUFFIX,hzdx.com,ChinaTest
 HOST-SUFFIX,hzecsemir.com,ChinaTest
 HOST-SUFFIX,hzefjs.com,ChinaTest
@@ -64715,6 +64718,7 @@ HOST-SUFFIX,qingnianlvxing.com,ChinaTest
 HOST-SUFFIX,qingnianwang.com,ChinaTest
 HOST-SUFFIX,qingpanduola.com,ChinaTest
 HOST-SUFFIX,qingpin.vip,ChinaTest
+HOST-SUFFIX,qingping.co,ChinaTest
 HOST-SUFFIX,qingqikeji.com,ChinaTest
 HOST-SUFFIX,qingqin.com,ChinaTest
 HOST-SUFFIX,qingqingmedia.com,ChinaTest
@@ -69327,6 +69331,7 @@ HOST-SUFFIX,sharedaka.com,ChinaTest
 HOST-SUFFIX,sharegog.com,ChinaTest
 HOST-SUFFIX,shareinstall.com,ChinaTest
 HOST-SUFFIX,shareinstall.net,ChinaTest
+HOST-SUFFIX,shareintelli.com,ChinaTest
 HOST-SUFFIX,sharelogis.com,ChinaTest
 HOST-SUFFIX,sharemoon.club,ChinaTest
 HOST-SUFFIX,shareoneplanet.org,ChinaTest
@@ -72394,6 +72399,7 @@ HOST-SUFFIX,startos.org,ChinaTest
 HOST-SUFFIX,startup-partner.com,ChinaTest
 HOST-SUFFIX,starwarschina.com,ChinaTest
 HOST-SUFFIX,starway.net,ChinaTest
+HOST-SUFFIX,starworldgames.com,ChinaTest
 HOST-SUFFIX,starx-w.com,ChinaTest
 HOST-SUFFIX,starxiiient.com,ChinaTest
 HOST-SUFFIX,starxn.com,ChinaTest
@@ -82611,6 +82617,7 @@ HOST-SUFFIX,wzswsq.com,ChinaTest
 HOST-SUFFIX,wzsxj.net,ChinaTest
 HOST-SUFFIX,wztf121.com,ChinaTest
 HOST-SUFFIX,wztlink1013.com,ChinaTest
+HOST-SUFFIX,wztsy.com,ChinaTest
 HOST-SUFFIX,wzty.ltd,ChinaTest
 HOST-SUFFIX,wzu.com,ChinaTest
 HOST-SUFFIX,wzweisen.com,ChinaTest
@@ -83692,13 +83699,22 @@ HOST-SUFFIX,xiaomeng1235.com,ChinaTest
 HOST-SUFFIX,xiaomi.hk,ChinaTest
 HOST-SUFFIX,xiaomi.tw,ChinaTest
 HOST-SUFFIX,xiaomiaozai.com,ChinaTest
+HOST-SUFFIX,xiaomidns.com,ChinaTest
+HOST-SUFFIX,xiaomidns.net,ChinaTest
 HOST-SUFFIX,xiaomiev.com,ChinaTest
+HOST-SUFFIX,xiaomiinc.com,ChinaTest
+HOST-SUFFIX,xiaomiinc.net,ChinaTest
 HOST-SUFFIX,xiaomimobile.com,ChinaTest
 HOST-SUFFIX,xiaominet.com,ChinaTest
 HOST-SUFFIX,xiaominfo.com,ChinaTest
+HOST-SUFFIX,xiaominr.com,ChinaTest
+HOST-SUFFIX,xiaomiprint.com,ChinaTest
 HOST-SUFFIX,xiaomiqiu.com,ChinaTest
 HOST-SUFFIX,xiaomiquan.com,ChinaTest
 HOST-SUFFIX,xiaomirom.com,ChinaTest
+HOST-SUFFIX,xiaomisa.com,ChinaTest
+HOST-SUFFIX,xiaomisa.net,ChinaTest
+HOST-SUFFIX,xiaomisa.org,ChinaTest
 HOST-SUFFIX,xiaomishu.com,ChinaTest
 HOST-SUFFIX,xiaomiwear.com,ChinaTest
 HOST-SUFFIX,xiaomixiaoai.com,ChinaTest
